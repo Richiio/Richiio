@@ -11,7 +11,7 @@
 
 ---
 
-I'm a passionate, creative and perceptive engineer with a hands-on approach to problem solving and an unending thirst for knowledge. 
+I'm a passionate, creative and perceptive engineer with a hands-on approach to problem solving and an unending thirst for knowledge. Interested in building smart systems and machines. 
 <!-- I write about random things that I find interesting on [blog.com](https://cechiorlu.com) -->
 
 <!-- ![Sarima's github stats](https://github-readme-stats.vercel.app/api?username=Richiio&show_icons=true&theme=dracula&hide=stars,issues)
@@ -45,7 +45,7 @@ I'm a passionate, creative and perceptive engineer with a hands-on approach to p
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 <p> 🔭 I’m currently working on building machine learning systems. Research based on computer vision, AI and Robotics </p>
-<p< 🌱 I’m currently learning Deep generative models and varational autoencoders </p>
+<p> 🌱 I’m currently learning Deep generative models and varational autoencoders </p>
 <p> 💬 Ask me about Machine Learning, Deep Learning, Artificial Intelligence and Robotics </p>
 
 <!-- <p align="right"><sub>Check out my full profile at <a href="https://cechiorlu.com">cechiorlu.com</a></sub></p> -->
