@@ -29,6 +29,7 @@ I'm a passionate, creative and perceptive engineer with a hands-on approach to p
 #### Languages and tools
 
 ![Python](https://img.shields.io/badge/-Python-%23F05032?style=flat-square&logo=python&logoColor=yellow&color=blue)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23F05032?style=flat-square&logo=pyTorchn&logoColor=yellow&color=blue)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23F05032?style=flat-square&logo=go&logoColor=blue&color=29BEB0)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
