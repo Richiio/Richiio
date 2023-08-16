@@ -22,8 +22,8 @@ I'm a passionate, creative and perceptive engineer with a hands-on approach to p
 <a href="https://github.com/Richiio/Richiio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richiio&layout=compact&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
 </a>
-<a href="https://github.com/cechiorlu/cechiorlu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Richiio&show_icons=true&hide=stars&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chimzi's GitHub Stats" />
+<a href="https://github.com/Richiio/Richiio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Richiio&show_icons=true&hide=stars&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarima's GitHub Stats" />
 </a>
   
 #### Languages and tools
